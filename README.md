@@ -14,10 +14,8 @@ Engineering and Technology, Chennai (October 2025).
 👉 [Click Here to Watch Demo](add-your-video-link-here)
 
 ## 🖼️ Hardware Build
-<p align="center">
-  <img src="prototype1.jpeg" width="45%" />
-  <img src="prototype2.jpeg" width="45%" />
-</p>
+  <img src="prototype1.jpeg" width="400" />
+  <img src="prototype2.jpeg" width="400" />
 
 ## ⚙️ Technology Used
 | Part | Specification |
