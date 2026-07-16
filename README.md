@@ -111,8 +111,8 @@ With an emphasis on low-cost implementation and autonomous functionality, this p
 ## 📸 Prototype
 
 <p align="center">
-  <img src="images/prototype1.jpeg" width="45%" />
-  <img src="images/prototype2.jpeg" width="45%" />
+  <img src="prototype1.jpeg" width="45%" />
+  <img src="prototype2.jpeg" width="45%" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ Watch the full working demonstration of the Multi-Purpose Sea Surveillance + Sea
 ## 📄 Documentation
 
 The full project report, including literature review, system design, and results, is available here:
-📘 [`docs/project-report.pdf`](docs/project-report.pdf)
+📘 [`docs/project-report.pdf`](project-report.pdf)
 
 ---
 
