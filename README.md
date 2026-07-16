@@ -97,5 +97,5 @@ Faculty Supervisor: **Dr. V Dyana ChristiIda**
 ## 📬 Contact
 **Hanis Mariam A** — 3rd Year ECE Student, RMKCET Chennai
 
-[![LinkedIn](https://img.sheilds.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/hanis-mariam-a-a8861132a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hanis-mariam-a-a8861132a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/hanis1721)
